@@ -1,0 +1,21 @@
+{
+  "core": "Tehzeb",
+  "categories": [
+    {
+      "label": "Embedded Systems",
+      "tools": ["ESP32", "PIC18F452", "Proteus", "MikroC PRO", "MPLAB X IDE"]
+    },
+    {
+      "label": "AI / ML / CV",
+      "tools": ["OpenCV", "NumPy", "YOLOv8", "PyWavelets", "Matplotlib"]
+    },
+    {
+      "label": "Full-Stack",
+      "tools": ["React Native", "Node.js", "Firebase", "Supabase", "PostgreSQL"]
+    },
+    {
+      "label": "Languages",
+      "tools": ["Python", "C", "C++", "JavaScript", "SQL"]
+    }
+  ]
+}
