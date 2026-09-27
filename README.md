@@ -34,18 +34,30 @@
 
 <br><br>
 
-<!-- Embedded/AI-hardware brands with no skillicons.dev entry -->
+<img src="https://skillicons.dev/icons?i=vscode,flutter,androidstudio,anaconda,bash&theme=dark" alt="tools and IDEs" />
+
+<br><br>
+
+<!-- Brands with no icon in skillicons.dev — pulled from shields.io / simple-icons instead -->
 <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=E7352C" alt="ESP32" />
 <img src="https://img.shields.io/badge/PIC18F452-0B0F19?style=for-the-badge&logo=microchip&logoColor=00A651" alt="PIC18F452" />
-<img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=ultralytics&logoColor=00FFCE" alt="YOLOv8" />
-<img src="https://img.shields.io/badge/Proteus-0B0F19?style=for-the-badge&logo=labview&logoColor=6366F1" alt="Proteus" />
 <img src="https://img.shields.io/badge/MPLAB_X-E4002B?style=for-the-badge&logo=microchip&logoColor=white" alt="MPLAB X" />
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB" />
+<img src="https://img.shields.io/badge/Proteus-0B0F19?style=for-the-badge&logoColor=6366F1&color=6366F1" alt="Proteus" />
+<img src="https://img.shields.io/badge/MobaXterm-0B0F19?style=for-the-badge&color=00F2FE" alt="MobaXterm" />
+<img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=ultralytics&logoColor=00FFCE" alt="YOLOv8" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Antigravity-0B0F19?style=for-the-badge&color=10B981" alt="Antigravity" />
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL" />
 <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle ORM" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+
+<br><br>
+
+<sub>Bash icon above represents Git Bash · Claude badge uses Anthropic's logo since Claude doesn't have a separate one yet · Proteus, MobaXterm and Antigravity have no brand icon in any public icon library, so they're shown as plain badges.</sub>
 
 </div>
 
